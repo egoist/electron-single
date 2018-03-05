@@ -1,13 +1,12 @@
 {
   "name": "electron-single",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Making your application a Single Instance Application",
   "repository": {
     "url": "egoist/electron-single",
     "type": "git"
   },
   "main": "index.js",
-  
   "files": [
     "index.js"
   ],
@@ -16,7 +15,8 @@
     "lint": "xo"
   },
   "author": "egoist <0x142857@gmail.com>",
-  "license": "MIT",  "dependencies": {},
+  "license": "MIT",
+  "dependencies": {},
   "devDependencies": {
     "eslint-config-rem": "^3.0.0",
     "xo": "^0.18.0"
